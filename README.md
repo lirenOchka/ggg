@@ -41,9 +41,13 @@
 ccылки
 ---
 [текст ссылки](https://telemost.yandex.ru/j/21244167578322)
+
 [с подсказкой](https://telemost.yandex.ru/j/21244167578322 ":3")
+
 <https://telemost.yandex.ru/j/21244167578322>
+
 [ссылочный стиль][1]
+
 [1]: https://telemost.yandex.ru/j/21244167578322
 
 картинка
@@ -51,7 +55,8 @@ ccылки
 ![альт текст](https://avatars.mds.yandex.net/i?id=afaa84ce4d982af4674c644d2204c24a_l-7069324-images-thumbs&n=13)
 
 ![логотип](https://ru.wikipedia.org/wiki/Escape_from_Tarkov"подсказка")
-[![клик](https://escapefromtarkov.fandom.com/wiki/Tagilla)
+
+[![клик](https://escapefromtarkov.fandom.com/wiki/Tagilla)](https://escapefromtarkov.fandom.com/ru/wiki/Тагилла)
 
 цитата
 ---
